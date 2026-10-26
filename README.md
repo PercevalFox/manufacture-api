@@ -7,7 +7,7 @@ Une mini API qui calcule des prix TTC.
 - @aket0 OK 
 - @Valentinlpka OK 
 - @IleanaBls OK 
-- @eleymoni
+- @eleymoni OK
 - @carojy
 - @juliet53
 - @timoogo
