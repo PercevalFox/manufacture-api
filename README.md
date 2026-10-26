@@ -10,5 +10,5 @@ Une mini API qui calcule des prix TTC.
 - @eleymoni OK
 - @carojy OK
 - @juliet53 OK
-- @timoogo
+- @timoogo OK
 - @joeledev
