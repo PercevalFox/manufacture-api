@@ -1,0 +1,7 @@
+services:
+  api:
+    build: .
+    ports:
+      - "3081:3081"
+    environment:
+      APP_VERSION: local
